@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/c4m0mila">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4m0mila&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4m0mila&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4m0mila&layout=compact_&count=7&theme=synthwave"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=c4m0mila&bg_color=0d1117&color=c9d1d9&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
