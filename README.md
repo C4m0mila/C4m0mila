@@ -1,13 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c9d1d9&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Camila.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
-<a href="https://github.com/c4m0mila">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4m0mila&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4m0mila&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/c4m0mila">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c4m0mila&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c4m0mila&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=c4m0mila&bg_color=0d1117&color=8B008B&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=c4m0mila&bg_color=0d1117&color=c9d1d9&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
